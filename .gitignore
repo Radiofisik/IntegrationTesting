@@ -1,0 +1,6 @@
+IntegrationTesting/bin/
+IntegrationTesting/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+IntegrationTesting/obj/Debug/net5.0/IntegrationTesting.csproj.FileListAbsolute.txt
+IntegrationTesting/obj/
+Tests/bin/
+Tests/obj/
